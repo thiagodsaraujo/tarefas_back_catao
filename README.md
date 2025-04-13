@@ -15,4 +15,3 @@ Este repositório contém o microserviço backend da aplicação de tarefas, des
 
 ```bash
 docker build -t thiagodsaraujo/tarefas_back_catao .
-arefas_back .
